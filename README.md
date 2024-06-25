@@ -1,8 +1,5 @@
-# React + Vite
+# GlobExpress
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is created using react and data is being fetched from JSON server
+using this site a user can mark all the locations he travels on the map using react leaflet 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
